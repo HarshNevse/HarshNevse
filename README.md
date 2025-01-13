@@ -1,5 +1,8 @@
-## Hi there 👋
 
+![tenor](https://github.com/user-attachments/assets/742a8dcf-a132-4554-b3d4-6b6562b187f7)
+
+## Hi, I'm Harsh Nevse! 👋
+#### BTech in Electronics and Communication, Specialized in Artificial Intelligence and Machine Learning, with Expertise in Data Science and Cybersecurity.
 <!--
 **HarshNevse/HarshNevse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What I'm up to:
+- 🔭 Currently working on RAG pipelines on Haystack for script generation.
+- 🌱 Learning more about Agentic AI, Large Language Models and ML techniques.
+- 💬 Feel free to ask me about Machine Learning, Agentic AI, and even Egg recipes.
+- 📫 Reach out to me via email: harshnevse29@gmail.com.
+- ⚡ Fun Fact: Dont stop not letting people not help themselves.
