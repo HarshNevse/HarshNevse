@@ -1,6 +1,7 @@
 
 ![tenor](https://github.com/user-attachments/assets/742a8dcf-a132-4554-b3d4-6b6562b187f7)
 
+![](https://komarev.com/ghpvc/?username=HarshNevse&color=blueviolet)
 ## Hi, I'm Harsh Nevse! 👋
 #### BTech in Electronics and Communication, Specialized in Artificial Intelligence and Machine Learning, with Expertise in Data Science and Cybersecurity.
 <!--
