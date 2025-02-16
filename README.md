@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ### What I'm up to:
-- 🔭 Currently working on RAG pipelines on Haystack for script generation.
+- 🔭 Currently working on developing Multi-Agent Systems (MAS).
 - 🌱 Learning more about Agentic AI, Large Language Models and ML techniques.
 - 💬 Feel free to ask me about Machine Learning, Agentic AI, and even Egg recipes.
 - 📫 Reach out to me via email: harshnevse29@gmail.com.
