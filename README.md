@@ -25,3 +25,9 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me about Machine Learning, Agentic AI, and even Egg recipes.
 - 📫 Reach out to me via email: harshnevse29@gmail.com.
 - ⚡ Fun Fact: Dont stop not letting people not help themselves.
+
+<div align="center">
+  
+![Harsh Nevse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshNevse&hide_border=true&theme=radical)
+
+</div>
